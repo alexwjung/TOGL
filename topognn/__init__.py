@@ -1,1 +1,2 @@
-
+class Tasks():
+    pass
