@@ -1,3 +1,6 @@
+# Modified setup to allow for source pip install.
+
+
 # Topological Graph Neural Networks
 
 This repository contains the code for our ICLR 2022 paper &ldquo;Topological
